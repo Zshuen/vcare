@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">vaccare</string>
+
+
+    <string name="qr_code">qr_code</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+</resources>

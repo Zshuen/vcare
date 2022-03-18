@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510950743471",
+    "project_id": "vaccare-9fb39",
+    "storage_bucket": "vaccare-9fb39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510950743471:android:18ccf6ad3e79e6c068235a",
+        "android_client_info": {
+          "package_name": "com.example.vaccare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510950743471-bspaie0dbv67akva1cknirnqdnpnvglr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpOzSp0V_XVl_9c3WrEISWcxDkl_uch_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510950743471-bspaie0dbv67akva1cknirnqdnpnvglr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
